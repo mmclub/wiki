@@ -5,4 +5,6 @@
 
 用Github的Wiki功能，Markdown语法攥写，不懂技术的童鞋也可以用在线的编辑器编辑。
 
+内容请见 <https://github.com/mmclub/wiki/wiki>
+
 
